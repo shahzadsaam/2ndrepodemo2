@@ -1,1 +1,2 @@
 this is for branch in local and contact to remote repostery
+add branch remotely and pull in terminal
